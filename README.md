@@ -5,14 +5,14 @@ This is my repository dedicated to the activities related to the basics of the p
 The activities are divided by folders, where each of them represents a different topic of the basics of programming within Python, such as loops, lists, and others.
 
 - # Initial List
-  [Initial List](https://github.com/renanrv4/IP_list/initial_list) This list contains the basics estructures of python.
+  [Initial List](https://github.com/renanrv4/IP_list/tree/main/initial_list) This list contains the basics estructures of python.
 These first exercises helped me getting acquainted with writing codes in Python.
 
 - # Conditional Commands List
-  [Conditionals Exercises](https://github.com/renanrv4/IP_list/List1)
+  [Conditionals Exercises](https://github.com/renanrv4/IP_list/tree/main/List1)
 
 - # Loops of Repetition List
-  [Loops Exercises](https://github.com/renanrv4/IP_list/List2)
+  [Loops Exercises](https://github.com/renanrv4/IP_list/tree/main/List2)
 
 
 
