@@ -14,6 +14,18 @@ These first exercises helped me getting acquainted with writing codes in Python.
 - # Loops of Repetition List
   [Loops Exercises](https://github.com/renanrv4/IP_list/tree/main/List2)
 
+- # List Data Structure Exercises
+  [List Exercises](https://github.com/renanrv4/IP_list/tree/main/List3)
+
+- # Functions List
+  [Functions Exercises](https://github.com/renanrv4/IP_list/tree/main/List4)
+
+- # Recursion List
+  [Recursion Exercises](https://github.com/renanrv4/IP_list/tree/main/List5)
+
+- # Tuples and Dictionary List
+  [Tuples and Dictionary Exercises](https://github.com/renanrv4/IP_list/tree/main/List6)
+
 
 
 
