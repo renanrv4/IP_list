@@ -33,6 +33,6 @@ These first exercises helped me getting acquainted with writing codes in Python.
 - ## Tuples and Dictionary List
   [Tuples and Dictionary Exercises](https://github.com/renanrv4/IP_list/tree/main/List6)
   In the last activities, I learned a new form of saving informations, with Dictionaries, and Tuples.
-
-
-
+- ## Monitoring
+  [Monitoring activities](https://github.com/renanrv4/IP_list/tree/main/Monitoring)
+  This folder contains all the activities and resources I created as a teaching assistant for the Introduction to Programming course. 
